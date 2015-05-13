@@ -1,6 +1,7 @@
 # BP3-Challenge; Stephen Tran
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-This solution is written in the C and C++ languages.
 -This problem solution takes advantage of previously knowing the format of the file being read.
 -The functions all display an answer on the prompt, specific to which function used.
 -It is up to the user to free the memory allocated for their created strings. Other memory allocations are freed after use in each function.

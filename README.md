@@ -10,8 +10,9 @@
 -More detail for use of functions are included in functions and in main of the program.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Functions:**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Functions:
+
 void opencloseTasksDate(String date) {
   iterative approach to find string of letters wanted and then manipulating the pointer to be able to compare the dates as necessary and increment relevant counters
 }
